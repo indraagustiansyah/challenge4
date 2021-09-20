@@ -1,0 +1,82 @@
+.sectionOne {
+  background-color: rgba(196, 196, 196, 0.13);
+  display: flex;
+  flex-direction: row;
+  padding-top: 7px;
+}
+.sectionTwo .menuAtas {
+  height: 60px;
+}
+
+
+.fa-whatsapp:hover {
+  color: rgb(168, 202, 118);
+}
+.medsos i {
+  color: red;
+  font-size: 20px;
+  padding-left: 10px;
+}
+.medsos i:hover {
+  color: #e64b29;
+  font-size: 24px;
+}
+.w-90 {
+  width: 90%;
+}
+
+.nav-link:hover {
+  color: #e64b29;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  padding: 12px;
+}
+
+.serviceItem {
+  background: #e64b29;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  padding: 35px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.bg-orange {
+  background: #f6e2e2;
+}
+.psikoTest {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.hubungiKami {
+  background: #e64b29;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 35px;
+  padding: 10px 70px 10px 70px;
+  text-align: center;
+}
+.titlies {
+  font-style: bold;
+}
+
+.inspirasi img {
+  border-radius: 2px;
+}
+.inspirasi .keterangan {
+  font-size: 16px;
+  padding-top: 10px;
+}
+.inspirasi .userpost {
+  font-size: 12px;
+}
+
+.footer{
+  background: #e64b29;
+  color: antiquewhite;
+  font-size: 14px;
+
+}
+.footer .container-fluid{
+  background-image: url(assets/image/upload/bg-footer.png);
+  background-size: cover;
+}
